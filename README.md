@@ -1,2 +1,2 @@
-# T3Descodificadas
-Repositório para as atividades da Trilha 3 do Programa Descodificadas
+# T3 Descodificadas
+Repositório para as atividades da _Trilha 3_ do Programa [**Descodificadas**](https://descodificadas.com.br/)
